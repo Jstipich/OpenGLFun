@@ -1,0 +1,13 @@
+﻿  Driver.cpp
+C:\Users\John Stipich\source\repos\OpenGLFun\OpenGLFun\Mesh.h(63): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\John Stipich\source\repos\OpenGLFun\OpenGLFun\Mesh.h(69): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\John Stipich\source\repos\OpenGLFun\OpenGLFun\Driver.cpp(323): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\John Stipich\source\repos\OpenGLFun\OpenGLFun\Driver.cpp(429): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\John Stipich\source\repos\OpenGLFun\OpenGLFun\Driver.cpp(430): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\John Stipich\source\repos\OpenGLFun\OpenGLFun\Driver.cpp(434): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\John Stipich\source\repos\OpenGLFun\OpenGLFun\Driver.cpp(435): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\John Stipich\source\repos\OpenGLFun\OpenGLFun\Driver.cpp(437): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\John Stipich\source\repos\OpenGLFun\OpenGLFun\Driver.cpp(438): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\John Stipich\source\repos\OpenGLFun\OpenGLFun\Driver.cpp(446): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\John Stipich\source\repos\OpenGLFun\OpenGLFun\Driver.cpp(545): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLFun.vcxproj -> C:\Users\John Stipich\source\repos\OpenGLFun\x64\Debug\OpenGLFun.exe
